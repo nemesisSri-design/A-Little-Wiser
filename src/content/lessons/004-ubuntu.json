@@ -1,0 +1,64 @@
+{
+  "id": "004-ubuntu",
+  "title": "Ubuntu and Relational Personhood",
+  "tradition": "Ubuntu",
+  "concept": "Ubuntu is often summarized as \"a person is a person through other persons,\" but the formula carries a demanding moral thesis. Personhood is not treated as an isolated possession present in full before social life; it is formed, recognized and sustained through practices of mutual regard. In many southern African philosophical discussions, ubuntu names virtues of generosity, hospitality, reconciliation and accountability to the community. The strongest argument for ubuntu is that it captures moral facts missed by strict individualism: vulnerability is shared, identity is dialogical, and damage to one member of a community alters the standing of all. It gives a principled basis for restorative justice because wrongs fracture relationships, not only rules.\n\nThe strongest objection is that appeals to community can suppress dissent, flatten minority voices, or romanticize harmony at the expense of rights. If belonging is enforced, ubuntu can become coercive. A rigorous defense answers that genuine relational dignity requires critique from within community, including protection for disagreement and institutional safeguards against domination. Ubuntu is therefore not conformity. At its best it is a norm of reciprocal recognition: one becomes fully human by enabling the humanity of others, especially where conflict has made that recognition difficult.",
+  "source": {
+    "text": "A person is a person through other persons.",
+    "author": "Zulu proverb",
+    "work": "Traditional saying",
+    "translator": "Common English rendering"
+  },
+  "words": [
+    {
+      "word": "ubuntu",
+      "meaning": "relational humanity expressed through mutual recognition and care",
+      "etymology": "Nguni languages; ubu- (state/being) + -ntu (person)",
+      "example": "Her apology sought ubuntu by repairing relation, not only avoiding penalty."
+    },
+    {
+      "word": "reciprocity",
+      "meaning": "mutual exchange of recognition, aid or obligation",
+      "etymology": "Latin reciprocus, returning the same way",
+      "example": "Reciprocity turned a formal meeting into a durable collaboration."
+    },
+    {
+      "word": "restorative",
+      "meaning": "aimed at repairing harm and relationships rather than only punishing",
+      "etymology": "Latin restaurare, to renew",
+      "example": "The council adopted a restorative process to rebuild trust after the dispute."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What does ubuntu claim about personhood?",
+      "answer": "That personhood is relationally formed and sustained through others."
+    },
+    {
+      "question": "Why does ubuntu support restorative justice?",
+      "answer": "Because wrongdoing harms relationships and shared standing, not only abstract rules.",
+      "options": [
+        "Because punishment is always forbidden",
+        "Because rules do not matter",
+        "Because harms are relational and need repair",
+        "Because communities are infallible"
+      ]
+    },
+    {
+      "question": "What is the strongest objection to ubuntu?",
+      "answer": "That community language can suppress dissent or rights if harmony is idealized."
+    },
+    {
+      "question": "How can ubuntu answer that objection?",
+      "answer": "By treating dissent protections and anti-domination safeguards as part of relational dignity.",
+      "options": [
+        "By eliminating dissent",
+        "By replacing rights with obedience",
+        "By embedding critique and protections within community",
+        "By refusing reconciliation"
+      ]
+    }
+  ],
+  "reflection": "Recall a conflict where repair mattered more than blame. What would reciprocal recognition require from each side?",
+  "related": ["001-stoicism", "002-epicureanism"]
+}

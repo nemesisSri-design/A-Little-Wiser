@@ -1,0 +1,64 @@
+{
+  "id": "001-stoicism",
+  "title": "Stoic Control and Responsibility",
+  "tradition": "Stoicism",
+  "concept": "Stoicism begins from a severe practical claim: some things are up to us and some are not. Epictetus treats this distinction as the hinge of freedom. Judgments, intentions and acts of assent are ours; reputation, office, wealth and the timing of death are not. The Stoic argument is that distress comes less from events than from mistaken evaluations of events. If I treat externals as if they were secure possessions, I place my peace in what fortune can remove in an hour. If I train judgment instead, I move dependence inward and gain a steadier form of agency. Marcus Aurelius applies this by constant redescription: the insult is a sound in air, the setback is matter changing shape, the body is temporary equipment for rational action. The point is not emotional numbness. It is ethical concentration: direct effort toward what reason can govern, accept the remainder without theatrical complaint, and preserve obligations to other people.\n\nThe strongest objection is that the doctrine can become moral quietism. If one emphasizes acceptance, one may excuse injustice as merely external. The Stoic reply is that public action is itself within the sphere of choice. One must oppose injustice, but without attaching dignity to the outcome alone. Stoicism therefore asks for a difficult combination: full civic effort joined to inner non-attachment. Its promise is not comfort. It is reliability under pressure.",
+  "source": {
+    "text": "Of things some are in our power, and others are not. In our power are opinion, movement toward a thing, desire, aversion; and in one word, whatever are our own acts.",
+    "author": "Epictetus",
+    "work": "Enchiridion, §1",
+    "translator": "Elizabeth Carter (1758)"
+  },
+  "words": [
+    {
+      "word": "apatheia",
+      "meaning": "freedom from destructive passions through disciplined judgment",
+      "etymology": "Greek a- (without) + pathos (suffering, passion)",
+      "example": "She sought apatheia not by withdrawal but by revising her judgments before speaking."
+    },
+    {
+      "word": "prohairesis",
+      "meaning": "the faculty of deliberate moral choice",
+      "etymology": "Greek pro- (before) + hairein (to choose)",
+      "example": "For Epictetus, prohairesis remains free even under political constraint."
+    },
+    {
+      "word": "assent",
+      "meaning": "the mind's approval of an impression as true",
+      "etymology": "Latin assentire, to agree",
+      "example": "He paused before assent, testing whether the first impression was accurate."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What distinction does Stoicism use to structure practical life?",
+      "answer": "It distinguishes what is up to us (judgment and choice) from what is not (externals and outcomes)."
+    },
+    {
+      "question": "Why do Stoics mistrust attachment to externals?",
+      "answer": "Because externals are unstable and can be removed by fortune, making peace fragile.",
+      "options": [
+        "Because externals are always immoral",
+        "Because externals are unstable and not fully in our control",
+        "Because Stoics deny all social life",
+        "Because Stoics reject reason"
+      ]
+    },
+    {
+      "question": "State one strong objection to Stoicism.",
+      "answer": "It can slide into quietism if acceptance is used to excuse injustice."
+    },
+    {
+      "question": "How does a Stoic answer the quietism objection?",
+      "answer": "By insisting civic action is still a duty within our control, while outcomes remain uncertain.",
+      "options": [
+        "By abandoning politics entirely",
+        "By claiming outcomes are guaranteed",
+        "By combining civic effort with non-attachment to outcomes",
+        "By replacing reason with emotion"
+      ]
+    }
+  ],
+  "reflection": "In two or three sentences, describe one present worry and separate what is up to you from what is not.",
+  "related": []
+}
