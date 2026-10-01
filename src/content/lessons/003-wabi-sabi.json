@@ -1,0 +1,64 @@
+{
+  "id": "003-wabi-sabi",
+  "title": "Wabi-sabi and the Discipline of Impermanence",
+  "tradition": "Wabi-sabi",
+  "concept": "Wabi-sabi is not a slogan for rustic decoration; it is an aesthetic-ethical stance shaped in Japanese Buddhist culture. Wabi originally suggested the loneliness of living apart from society, then shifted toward a voluntary simplicity that rejects display. Sabi named the patina of time: weathering, quietness, the dignity of age. Together they train attention toward transient, irregular, incomplete forms. The strongest argument for wabi-sabi is epistemic as well as aesthetic: it corrects the fantasy that worth requires permanence, symmetry or polish. A cracked bowl repaired with care can disclose use, loss and continuity more truthfully than a flawless replacement. In this way, wabi-sabi disciplines appetite. It encourages sufficiency over accumulation and perception over novelty.\n\nThe strongest objection is that the ideal can become a refined consumer taste, detached from the discipline that produced it. If imperfection is merely curated, it becomes another status marker. A second objection is political: acceptance of transience may be used to naturalize preventable damage and inequality. A serious defense of wabi-sabi therefore distinguishes metaphysical impermanence from social resignation. Mortality and decay are unavoidable; exploitation is not. Properly understood, wabi-sabi can sharpen gratitude and restraint without forbidding repair, critique or institutional change.",
+  "source": {
+    "text": "Though in Kyoto I hear the cuckoo's cry, I long for Kyoto.",
+    "author": "Matsuo Basho",
+    "work": "Haikai verse",
+    "translator": "W. G. Aston (1899)"
+  },
+  "words": [
+    {
+      "word": "wabi",
+      "meaning": "austere simplicity and contentment apart from display",
+      "etymology": "from Japanese wabiru, to feel forlorn; later revalued aesthetically",
+      "example": "The room's wabi came from restraint rather than from expensive minimalism."
+    },
+    {
+      "word": "sabi",
+      "meaning": "beauty marked by age, patina and quietness",
+      "etymology": "from Japanese sabu, to become desolate or weathered",
+      "example": "The old gate's sabi made its repairs part of its meaning."
+    },
+    {
+      "word": "patina",
+      "meaning": "surface change acquired through age and use",
+      "etymology": "Latin patina, shallow dish; later a green film on bronze",
+      "example": "She kept the desk's patina as a record of long use."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What misunderstanding of wabi-sabi does this lesson reject?",
+      "answer": "That it is merely a decorative style rather than a discipline of perception and restraint."
+    },
+    {
+      "question": "Why can an imperfect object have special value in this view?",
+      "answer": "Because wear and repair can disclose time, use and continuity more honestly than polished replacement.",
+      "options": [
+        "Because damage is always better than repair",
+        "Because symmetry is forbidden",
+        "Because traces of time can carry meaning",
+        "Because new objects are immoral"
+      ]
+    },
+    {
+      "question": "Give one strong objection to wabi-sabi.",
+      "answer": "It can be turned into elite taste or used to excuse avoidable social harms."
+    },
+    {
+      "question": "How should wabi-sabi answer the political objection?",
+      "answer": "By accepting natural impermanence while still resisting preventable injustice.",
+      "options": [
+        "By treating all injustice as fate",
+        "By separating impermanence from resignation",
+        "By rejecting all tradition",
+        "By denying mortality"
+      ]
+    }
+  ],
+  "reflection": "Describe one worn or imperfect thing you value. Explain what history it preserves and what limit it teaches.",
+  "related": ["001-stoicism", "002-epicureanism"]
+}

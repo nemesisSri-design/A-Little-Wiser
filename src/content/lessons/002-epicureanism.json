@@ -1,0 +1,64 @@
+{
+  "id": "002-epicureanism",
+  "title": "Epicurean Measure and Peace",
+  "tradition": "Epicureanism",
+  "concept": "Epicurus is often reduced to indulgence, but his ethics is an economy of desire. The highest good is pleasure understood as stable well-being: absence of bodily turmoil and mental disturbance. He argues that fear, especially fear of gods and death, disorders life more deeply than pain itself. If the universe is natural rather than providentially managed for reward and punishment, then terror can be reduced and choices can be measured by consequence. Epicurus classifies desires as natural and necessary, natural but unnecessary, and empty. Bread, shelter and friendship belong to the first class and secure life. Luxury belongs to the second and may be enjoyed without dependence. Status hunger belongs to the third and rarely terminates. The strongest argument for Epicureanism is therapeutic: by limiting desire and removing superstitious fear, one can achieve ataraxia, a durable calm available to ordinary people.\n\nThe strongest objection is that this ethic may undervalue ambition, art and political risk. A life organized around tranquility can appear too private for public crisis. Epicureans answer that prudence, not withdrawal as such, is central. One should enter public life when it truly serves peace and justice, but one should not mistake agitation for virtue. Their standard remains practical: does a commitment produce lasting freedom from disturbance, or a new chain of needless fears?",
+  "source": {
+    "text": "When we say, then, that pleasure is the end and aim, we do not mean the pleasures of the prodigal or the pleasures of sensuality ... but freedom from pain in the body and from trouble in the mind.",
+    "author": "Epicurus",
+    "work": "Letter to Menoeceus",
+    "translator": "Robert Drew Hicks (1925)"
+  },
+  "words": [
+    {
+      "word": "ataraxia",
+      "meaning": "tranquility, freedom from mental disturbance",
+      "etymology": "Greek a- (without) + tarassein (to disturb)",
+      "example": "He declined the empty rivalry because it would cost him ataraxia."
+    },
+    {
+      "word": "aponia",
+      "meaning": "absence of bodily pain",
+      "etymology": "Greek a- (without) + ponos (pain, toil)",
+      "example": "Epicurean prudence values aponia over short bursts of excess."
+    },
+    {
+      "word": "prudence",
+      "meaning": "practical judgment about means and consequences",
+      "etymology": "Latin prudentia, foresight",
+      "example": "Prudence led her to choose a smaller gain over a larger future regret."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "How does Epicurus define the highest pleasure?",
+      "answer": "As stable well-being: freedom from bodily pain and mental disturbance."
+    },
+    {
+      "question": "Which desires does Epicurus call empty?",
+      "answer": "Desires for status, limitless wealth, and prestige that do not naturally terminate.",
+      "options": [
+        "Desires for food and shelter",
+        "Desires for friendship",
+        "Desires for status and unlimited distinction",
+        "Desires for rest"
+      ]
+    },
+    {
+      "question": "What is the strongest objection to Epicurean ethics?",
+      "answer": "That its emphasis on tranquility may underweight public ambition and political risk."
+    },
+    {
+      "question": "What is the Epicurean reply to that objection?",
+      "answer": "Prudence decides when engagement is worthwhile; agitation alone is not virtue.",
+      "options": [
+        "All politics is forbidden",
+        "Every ambition should be pursued",
+        "Public action is chosen case by case by prudence",
+        "Pleasure is irrelevant"
+      ]
+    }
+  ],
+  "reflection": "Name one desire you treat as necessary. Test whether it is natural and necessary, merely pleasant, or empty.",
+  "related": ["001-stoicism"]
+}

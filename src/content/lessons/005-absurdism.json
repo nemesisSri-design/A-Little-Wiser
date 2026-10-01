@@ -1,0 +1,64 @@
+{
+  "id": "005-absurdism",
+  "title": "Absurdism and Lucid Defiance",
+  "tradition": "Absurdism",
+  "concept": "Absurdism, in Camus's formulation, begins with a mismatch: human beings seek intelligible order and final justification, while the world does not provide guaranteed answers. The absurd is not merely chaos in events; it is the confrontation between desire for meaning and the world's silence. Camus rejects two escapes. One is literal suicide, which treats life as settled by the absence of ultimate meaning. The other is philosophical suicide, where one leaps into consoling certainties that evade the contradiction. His strongest argument is ethical: clarity about limits can ground a form of freedom. If no final script authorizes us, then responsibility for action becomes more immediate. Revolt, for Camus, means sustained refusal to lie about the condition while continuing to act, create and judge.\n\nThe strongest objection is that this stance may lack normative force. If meaning is not given, why prefer justice to domination? Camus responds imperfectly but significantly: revolt discovers solidarity because each person meets the same exposure to death and contingency. To defend one life against humiliation is to defend a shared condition. Critics still argue that this foundation is too thin for institutions and law. Even so, absurdism remains valuable as an intellectual hygiene: it warns against counterfeit certainty and asks whether our commitments can survive without metaphysical guarantees.",
+  "source": {
+    "text": "What can one expect from man since he is a being endowed with strange qualities? He can become accustomed to anything.",
+    "author": "Fyodor Dostoevsky",
+    "work": "Notes from Underground",
+    "translator": "Constance Garnett (1918)"
+  },
+  "words": [
+    {
+      "word": "absurd",
+      "meaning": "the tension between human demand for meaning and an indifferent world",
+      "etymology": "Latin absurdus, out of tune",
+      "example": "He used absurd in Camus's sense, not as a synonym for mere nonsense."
+    },
+    {
+      "word": "revolt",
+      "meaning": "continued refusal to submit to false consolation while still acting",
+      "etymology": "Latin revolvere, to turn back or roll",
+      "example": "Her revolt was lucid: she rejected easy myths but kept her commitments."
+    },
+    {
+      "word": "contingency",
+      "meaning": "the condition of being possible but not necessary",
+      "etymology": "Latin contingere, to happen or befall",
+      "example": "Historical contingency made the institution fragile and revisable."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "How does Camus define the absurd?",
+      "answer": "As the confrontation between our search for meaning and the world's silence."
+    },
+    {
+      "question": "What are the two escapes Camus rejects?",
+      "answer": "Literal suicide and philosophical suicide through consoling leaps.",
+      "options": [
+        "Science and art",
+        "Literal suicide and philosophical suicide",
+        "Politics and religion",
+        "Freedom and responsibility"
+      ]
+    },
+    {
+      "question": "State one major objection to absurdism.",
+      "answer": "Its moral foundation may seem too thin to justify robust norms and institutions."
+    },
+    {
+      "question": "What normative resource does Camus offer in reply?",
+      "answer": "Solidarity grounded in shared human vulnerability and contingency.",
+      "options": [
+        "Guaranteed metaphysical law",
+        "Pure relativism",
+        "Solidarity through shared exposure",
+        "Withdrawal from all action"
+      ]
+    }
+  ],
+  "reflection": "Write two or three sentences on one commitment you keep even without certainty of final justification.",
+  "related": ["001-stoicism", "002-epicureanism", "004-ubuntu"]
+}
